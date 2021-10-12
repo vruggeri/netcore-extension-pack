@@ -1,0 +1,51 @@
+{
+    "name": "netcore-extension-pack",
+    "displayName": "netcore-extension-pack",
+    "description": "Popular Visual Studio Code extensions for .NET Core Development",
+    "version": "0.0.1",
+    "publisher": "Prodam",
+    "icon": "dotnet.png",
+    "repository": "https://github.com/vruggeri/netcore-extension-pack",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "license": "MIT",
+    "galleryBanner": {
+        "color": "#DAD0C2",
+        "theme": "light"
+    },
+    "keywords": [
+        "dot-net",
+        "net-core"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "adrianwilczynski.toggle-hidden",
+        "adrianwilczynski.csharp-to-typescript",
+        "adrianwilczynski.blazor-snippet-pack",
+        "ms-dotnettools.csharp",
+        "doggy8088.netcore-snippets",
+        "adrianwilczynski.user-secrets",
+        "adrianwilczynski.add-reference",
+        "adrianwilczynski.namespace",
+        "adrianwilczynski.terminal-commands",
+        "adrianwilczynski.libman",
+        "EditorConfig.EditorConfig",
+        "zxh404.vscode-proto3",
+        "adrianwilczynski.asp-net-core-switcher",
+        "codezombiech.gitignore",
+        "kreativ-software.csharpextensions",
+        "k--kato.docomment",
+        "aaron-bond.better-comments",
+        "doggy8088.quicktype-refresh",
+        "jmrog.vscode-nuget-package-manager",
+        "tintoy.msbuild-project-tools",
+        "formulahendry.dotnet",
+        "wayou.vscode-todo-highlight",
+        "christian-kohler.path-intellisense",
+        "pflannery.vscode-versionlens",
+        "formulahendry.dotnet-test-explorer"
+    ]
+}
