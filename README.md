@@ -1,4 +1,6 @@
 # .NET Core Extension Pack
+[![Version](https://vsmarketplacebadge.apphb.com/version/prodam.netcore-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=prodam.netcore-extension-pack)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/prodam.netcore-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=prodam.netcore-extension-pack)
 
 This extension pack packages some of the most popular (and some of my favorite) **.NET Core** related extensions. If you like it, please leave your `Rating & Review` and share with your friends. If you have any idea on how to improve this extension pack, I'm looking forwarded to hear from you. Just [let me know](https://github.com/vruggeri/netcore-extension-pack/issues) your awesome ideas! 😊
 
